@@ -86,8 +86,12 @@ body {
   word-break: break-all;
 }
 .form .user-inbox .msg-header p {
-  color: #333;
-  background: #efefef;
+    color: #333;
+    background: #53ed6b;
+    border-radius: 10px;
+    padding: 8px 10px;
+    font-size: 14px;
+    word-break: break-all;
 }
 .wrapper .typing-field {
   display: flex;
